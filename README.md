@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shubhankar.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning node js.
-- 💞️ I’m looking to collaborate on android development and node js.
 - 📫 You can reach me at subhankarsubham18gmail.com
 
 <!---
